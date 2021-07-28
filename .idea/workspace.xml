@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba20c9a7-05d4-4315-a625-46b4af5debc0" name="Default Changelist" comment="在idea中新建test2">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testmaster3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="e7d1eb1c3954ae0ba9e10ec74aed75c27b78edfe" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\soft\IntelliJ IDEA Community Edition 2020.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vvM3XIUFW3avNaM83H93zxgK21" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba20c9a7-05d4-4315-a625-46b4af5debc0" name="Default Changelist" comment="" />
+      <created>1627437910515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627437910515</updated>
+    </task>
+    <task id="LOCAL-00001" summary="新增test1">
+      <created>1627438097219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627438097219</updated>
+    </task>
+    <task id="LOCAL-00002" summary="在idea中修改readme">
+      <created>1627438683473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627438683473</updated>
+    </task>
+    <task id="LOCAL-00003" summary="在idea中新建test2">
+      <created>1627439168066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627439168066</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增test1" />
+    <MESSAGE value="在idea中修改readme" />
+    <MESSAGE value="在idea中新建test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="在idea中新建test2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1000" y="333" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627439506071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1000" y="333" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1627439506071" />
+    <state x="730" y="260" key="FileChooserDialogImpl" timestamp="1627439407778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1627439407778" />
+    <state x="585" y="280" key="MultipleFileMergeDialog" timestamp="1627438581411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="280" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627438581411" />
+    <state x="542" y="252" key="Vcs.Push.Dialog.v2" timestamp="1627440803396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="542" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1627440803396" />
+    <state x="280" y="120" width="1340" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1627439531032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="280" y="120" width="1340" height="800" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627439531032" />
+    <state x="748" y="419" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1627439026465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="419" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627439026465" />
+    <state x="803" y="417" key="git4idea.ui.GitStashDialog" timestamp="1627439217715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="417" key="git4idea.ui.GitStashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627439217715" />
+    <state x="759" y="358" key="git4idea.ui.GitTagDialog" timestamp="1627439230847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="358" key="git4idea.ui.GitTagDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627439230847" />
+    <state x="707" y="308" key="git4idea.ui.GitUnstashDialog" timestamp="1627438913771">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="308" key="git4idea.ui.GitUnstashDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1627438913771" />
+  </component>
+</project>
